@@ -15,3 +15,5 @@
 - 另外，上述文件对于icon的表示，是读取存储在[`configs/icon.yaml`](configs/icon.yaml)，因此只需修改这个配置文件，就可以添加新的图标族
 
 ## 2. 运行截图
+
+![](./src/image/runtime.jpg)
